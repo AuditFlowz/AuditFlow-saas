@@ -19,6 +19,7 @@ var USERS=[
   {id:'pm',name:'Philippe M.',email:'pmassard@74software.com',role:'admin',status:'actif',pwd:'Audit1234!',organization_id:'00000000-0000-0000-0000-000000000001'},
   {id:'sh',name:'Selma H.',email:'shentabli@74software.com',role:'auditeur',status:'actif',pwd:'Audit1234!',organization_id:'00000000-0000-0000-0000-000000000001'},
   {id:'ne',name:'Nisrine E.',email:'nechah@74software.com',role:'auditeur',status:'actif',pwd:'Audit1234!',organization_id:'00000000-0000-0000-0000-000000000001'},
+  {id:'superadmin',name:'Super Admin',email:'pmassard.fr@gmail.com',role:'superadmin',status:'actif',pwd:'Audit1234!',organization_id:'00000000-0000-0000-0000-000000000000'},
 ];
 let PENDING=[];
 let HISTORY_LOG=[];
