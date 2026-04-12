@@ -1,1 +1,2 @@
-config.js
+# config.js intentionnellement committé
+# (clé anon Supabase = publique par design)
